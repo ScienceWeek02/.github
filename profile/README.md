@@ -1,7 +1,8 @@
 # EEG Seizure Detection System
 
 A real-time epileptic seizure detection system using EEG signals. The application processes EEG data via MQTT, uses a machine learning model for prediction, and displays results through an interactive web interface.
-![Screenshot from 2025-04-16 00-13-43](https://github.com/user-attachments/assets/56eb226c-3989-49e7-a8f5-fff8762540ea)
+![image](https://github.com/user-attachments/assets/dcd5aa09-5aee-4fed-9bd9-f65792606afd)
+
 
 
 ## System Overview
